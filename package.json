@@ -1,0 +1,14 @@
+{
+  "name": "qualquer-nome",
+  "version": "1.0.0",
+  "description": "apredendo node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matheus Zweibrucker",
+  "license": "MIT",
+  "dependencies": {
+    "cfonts": "^3.2.0"
+  }
+}
